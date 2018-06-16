@@ -29,13 +29,13 @@ $7、看见没我大哥@\
 <br>\
 会不会被打<br>\
 <br>\
-$8、葫芦娃@\
+$8、嘻嘻@\
+<br><br>\
+emmmmm<br>\
+<br><br>\
+$9、葫芦娃@\
 <br><br>\
 什么时候去救爷爷<br>\
-<br><br>\
-$9、嘻嘻@\
-<br><br>\
-emmmmmm<br>\
 <br><br>\
 ";
 var d = dataStr.split('$');
